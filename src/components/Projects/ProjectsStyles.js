@@ -5,6 +5,8 @@ export const Img = styled.img`
   height:100%;
   object-fit: cover;
   overflow: hidden;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
 `
 
 export const GridContainer = styled.section`
@@ -23,8 +25,9 @@ row-gap: 3rem;
 
 `
 export const BlogCard = styled.div`
-  border-radius: 10px;
-  box-shadow: 3px 3px 20px rgba(80, 78, 78, 0.5);
+  border-radius: 20px;
+  box-shadow: 3px 3px 20px rgba( 124, 183, 228, 0.5);
+ 
   text-align: center;
   width: 400px;
   @media ${(props) => props.theme.breakpoints.sm} {
