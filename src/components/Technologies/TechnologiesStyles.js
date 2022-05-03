@@ -131,3 +131,19 @@ export const ListIcon = styled.img`
     margin-bottom: 0px;
   }
 `
+
+export const IconList = styled.ul`
+  max-width: 320px;
+  display: flex;
+  flex-direction: row;
+
+@media ${props => props.theme.breakpoints.md}{
+  max-width: 203px;
+}
+
+@media ${props => props.theme.breakpoints.sm}{
+  margin-bottom: 14px;
+  max-width: 320px;
+  flex-direction: column;
+}
+`
