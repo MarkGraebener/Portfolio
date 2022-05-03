@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/1.png',
       tags: ['HTML5', 'CSS', 'Bootstrap', 'JavaScript', 'JQuery'],
     source: 'https://github.com/MarkGraebener/weatherMap',
-    visit: 'https://google.com',
+    visit: 'https://github.com/MarkGraebener/weatherMap',
     id: 0,
   },
   {
