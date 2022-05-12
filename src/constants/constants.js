@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Weather Map',
     description: "Web based app to deliver real time weather data from multiple API’s with a focus on UX / UI design. Created with: HTML, CSS, and, Bootstrap for design and JavaScript, and JQuery for functionality.",
-      image: '/images/1.png',
+      image: '/images/weatherMapImg.png', 
       tags: ['HTML5', 'CSS', 'Bootstrap', 'JavaScript', 'JQuery'],
     source: 'https://github.com/MarkGraebener/weatherMap',
     visit: 'https://github.com/MarkGraebener/weatherMap',
@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'Coffee Project',
     description:"Web application stack using HTML, CSS, Javascript, JQuery to render coffee products on page and simulate database of categories.",
-    image: '/images/2.png',
+    image: '/images/coffeeProjectImg.png',
     tags: ['HTML5', 'JavaScript','CSS','JQuery'],
     source: 'https://github.com/MarkGraebener/coffee-project',
     visit: 'https://google.com',
@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'Movie',
     description: "Web based app to search API’s for movie content and pictures. displayed, saved and edited in a database.",
-      image: '/images/3.jpg',
+      image: '/images/movieLoading.png',
       tags: ['HTML5', 'CSS', 'Bootstrap','JQuery','Glitch as API'],
     source: 'https://github.com/Justin-and-Gerald/movies',
     visit: 'https://google.com',
