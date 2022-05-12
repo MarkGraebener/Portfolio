@@ -29,7 +29,7 @@ export const projects = [
   {
     title: 'Magic the Gathering Deck Lister',
     description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-    image: '/images/4.jpg',
+    image: '/images/magic_the_gathering-11.png',
     tags: ['Java SE', 'JSP Servlets', 'MySql'],
     source: 'https://github.com/MagicTheGatheringLister/MTGlister',
     visit: 'https://google.com',
