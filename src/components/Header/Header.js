@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import React from 'react';
-import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from 'react-icons/ai';
+import { AiFillFile, AiFillGithub, AiFillInstagram, AiFillLinkedin } from 'react-icons/ai';
 import { DiCssdeck } from 'react-icons/di';
 
 import { Container, Div1, Div2, Div3, NavLink, SocialIcons, Span } from './HeaderStyles';
@@ -32,14 +32,16 @@ const Header = () =>  (
       </li>
     </Div2>
     <Div3>
-      <SocialIcons href='git hub'>
+      
+      <SocialIcons href='https://github.com/MarkGraebener '>
         <AiFillGithub size="3rem"/>
       </SocialIcons>
-      <SocialIcons href='git hub'>
+      
+      <SocialIcons href='https://www.linkedin.com/in/mark-graebener-00787832/'>
         <AiFillLinkedin size="3rem"/>
       </SocialIcons>
-      <SocialIcons href='git hub'>
-        <AiFillGithub size="3rem"/>
+      <SocialIcons href='https://docs.google.com/document/d/1sM9ihVBsYozxOg78wQNG8jLq8oJov1KoYz7Ew6p-utA/edit?usp=sharing'>
+        <AiFillFile size="3rem"/>
       </SocialIcons>
     </Div3>
   </Container>

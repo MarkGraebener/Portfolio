@@ -10,11 +10,11 @@ export const projects = [
   },
   {
     title: 'Project Hand Me Down',
-    description:"Web application stack using HTML, CSS, Javascript, JQuery to render coffee products on page and simulate database of categories.",
-    image: '/images/coffeeProjectImg.png',
-    tags: ['HTML5', 'JavaScript','CSS','JQuery'],
-    source: 'https://github.com/MarkGraebener/coffee-project',
-    visit: 'https://google.com',
+    description:"Project HandMeDown is a place where parents can connect. Parents can find items in our marketplace, as well as find fun things to do in our activities section, and get or give advice about parenting in our forum. The site leverages two external APIs: Sendgrid for messaging, and Filestack for uploading images",
+    image: '/images/PHMD index pic.png',
+    tags: ['JavaScript','CSS','Java', 'ThymeLeaf', 'Spring'],
+    source: 'https://github.com/HandMeDownProject',
+    visit: 'https://projecthandmedown.me/',
     id: 1,
   },
   {
