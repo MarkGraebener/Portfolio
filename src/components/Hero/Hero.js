@@ -12,9 +12,8 @@ const Hero = (props) => (
        My Personal Portfolio
      </SectionTitle>
      <SectionText>
-     Preserve and cherish that pale blue dot brain is the seed of intelligence Orion's sword with pretty stories for which there's little good evidence ship of the imagination as a patch of light. Encyclopaedia galactica kindling the energy hidden in matter the carbon in our apple pies vastness is bearable only through love rich in mystery a still more glorious dawn awaits. White dwarf vastness is bearable only through love globular star cluster concept of the number one citizens of distant epochs white dwarf.
-     </SectionText>
-     <Button onClick={() => window.location = 'https://google.com'} >Learn More</Button>
+     Passionate Full Stack developer and Army Veteran with a strong background in supply chain logistics, service industry operations,  leadership, and problem solving. A strong drive to take on new and exciting projects with a collaborative mind-set to produce the best final product possible. Proficient time management skills while working in a high pressure environment to deliver the highest quality of results.     </SectionText>
+     <Button onClick={() => window.location = 'https://docs.google.com/document/d/1sM9ihVBsYozxOg78wQNG8jLq8oJov1KoYz7Ew6p-utA/edit?usp=sharing'} >Learn More</Button>
    </LeftSection>
  </Section>  
 );

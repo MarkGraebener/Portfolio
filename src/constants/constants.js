@@ -9,7 +9,7 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'Coffee Project',
+    title: 'Project Hand Me Down',
     description:"Web application stack using HTML, CSS, Javascript, JQuery to render coffee products on page and simulate database of categories.",
     image: '/images/coffeeProjectImg.png',
     tags: ['HTML5', 'JavaScript','CSS','JQuery'],
