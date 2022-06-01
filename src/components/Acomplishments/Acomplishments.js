@@ -12,7 +12,7 @@ const data = [
 
 const Acomplishments = () => (
   <div>
-    Acomplishments
+    
   </div>
 );
 
